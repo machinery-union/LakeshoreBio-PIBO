@@ -21,7 +21,7 @@ analysis pipelines are not included.
 The Supplementary Data CSV files and `bin_pooled.npz` are **not duplicated in this repository**.
 To run the scripts, assemble the three channels as described below.
 
-Zenodo record: **[ZENODO RECORD URL]**
+Zenodo record: **[https://zenodo.org/records/24522271](https://zenodo.org/records/24522271)**
 
 ## 2. Repository contents
 
@@ -81,7 +81,7 @@ three evaluation commands.
 
 ### 3.2 Add the Zenodo cache
 
-Download `bin_pooled.npz` from **[ZENODO RECORD URL]** and place it at:
+Download `bin_pooled.npz` from **[https://zenodo.org/records/24522271](https://zenodo.org/records/24522271)** and place it at:
 
 ```text
 data/eprotein/bin_pooled.npz
